@@ -1,0 +1,19 @@
+{
+  "name": "rubberduckie-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@skyware/bot": "^0.3.8",
+    "consola": "^3.4.0",
+    "ts-node": "^10.9.2"
+  }
+}
